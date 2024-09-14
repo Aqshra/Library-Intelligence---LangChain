@@ -25,3 +25,10 @@ To start all parts of the application, run the following commands in separate te
 1. **Start the chatbot interface**:
    ```bash
    streamlit run APP1.py
+2. **Start the flask app**:
+   ```bash
+   python flask_app.py
+3. **Start the visualization**:
+   ```bash
+   streamlit run visualisation.py
+
